@@ -38,8 +38,14 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # 一号标题
 正文1
-  1. 第一点
-  2. 第二点
+
+1. 第一点
+2. 第二点
+
+1. Numbered
+2. List
+**Bold** and _Italic_ and `Code` text
+
 ## 二号标题
 正文2
 ### 三号标题
